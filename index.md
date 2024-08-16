@@ -20,7 +20,7 @@
 
 </center>
 
-[Redmi 10X 5G ROM](http://xjl12.gitee.io/android_device_xiaomi_atom/)
+[Redmi 10X 5G ROM](http://xjl12.github.io/android_device_xiaomi_atom/)
 
 [My GitHub](https://github.com/xjl12)
 
