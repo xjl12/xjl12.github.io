@@ -26,10 +26,4 @@
 
 [My Gitee](https://gitee.com/xjl12)
 
-![收款玛](shou_kuang_ma.jpg)
-
-![红包码](hongbao.jpg)
-
-### 如果您喜欢我的作品，欢迎请我喝一杯咖啡 ^_^
-
 下载途中可以点亮一个[小星星](https://github.com/xjl12/android_device_xiaomi_atom) ^_^
